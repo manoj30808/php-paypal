@@ -1,0 +1,15 @@
+{
+    "name": "sonlabs/php-paypal",
+    "keywords": ["php","paypal","example"],
+    "description": "Paypal payment example",
+    "authors": [
+        {
+            "name": "Manoj Sonagra",
+            "email": "manoj30808@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev-master",
+    "require": {
+        "php": ">=5.5.9",
+    }
+}
